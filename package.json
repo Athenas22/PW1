@@ -1,8 +1,10 @@
 {
+  "name": "seu-projeto",
+  "version": "1.0.0",
+  "type": "module", 
+  "description": "",
+  "main": "index.js",
   "devDependencies": {
-    "@types/node": "^25.5.0",
-    "ts-node": "^10.9.2",
-    "tsx": "^4.21.0",
     "typescript": "^6.0.2"
   }
 }
